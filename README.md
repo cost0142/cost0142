@@ -1,5 +1,8 @@
-### Hello !! I'm Hygor Costa 👋👋👋
+### Hello !! I'm Hygor Costa. 👋👋👋
 
+You are very welcome to my GitHub.
+
+Feel free to check out my repositories and feel free to contribute.
 
 <div align="center">
   <a href="https://github.com/cost0142">
