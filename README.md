@@ -1,5 +1,10 @@
 ### Hello !! I'm Hygor Costa. 👋👋👋
 
+<!-- [![MasterHead](your image link)](cost0142) -->
+
+<!-- Adicione uma imagem flutuante ou GIF -->
+<!-- <img align="right" alt="Coding" width="400" src="coloque o link aqui"> -->
+
 You are very welcome to my GitHub.
 
 Feel free to check out my repositories and feel free to contribute.
@@ -8,7 +13,15 @@ Feel free to check out my repositories and feel free to contribute.
   <a href="https://github.com/cost0142">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cost0142&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cost0142&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<!-- <p><img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cost0142&" alt="cost0142" /></p> -->
+          </div>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cost0142&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=90DD60)](https://git.io/streak-stats) -->
+  
+  
+<!-- #### Profile Visits -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=cost0142.cost0142) -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cost0142&" alt="cost0142" /></p> -->
     
   
   
