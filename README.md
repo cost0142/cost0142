@@ -7,7 +7,7 @@
 
 You are very welcome to my GitHub.
 
-Feel free to check out my repositories and feel free to contribute.
+Feel free to check out my repositories and to contribute if you like.
 
 <div align="center">
   <a href="https://github.com/cost0142">
