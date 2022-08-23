@@ -60,7 +60,7 @@ Feel free to check out my repositories and to contribute if you like.
   ##
   
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning --> Flutter, Swift
+- 🌱 I’m currently learning --> React, Swift and Kotlin
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
