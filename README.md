@@ -24,16 +24,20 @@ Feel free to check out my repositories and to contribute if you like.
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cost0142&" alt="cost0142" /></p> -->
     
   
+  <!-- LINK ONDE ESTAO TODOS OS ICONES -->
+  <!-- https://github.com/devicons/devicon/tree/master/icons -->
   
   <div style="display: inline_block"><br>
 <!--Flutter-->
     <img align="center" alt="Hygot-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 <!--Swift-->
     <img align="center" alt="Hygor-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+<!--Kotlin-->
+    <img align="center" alt="Hygor-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
  <!--JS-->
     <img align="center" alt="Hygor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--Java-->
-    <img align="center" alt="Hygor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Hygor-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <!--MongoDB-->
     <img align="center" alt="Hygor-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <!--Dart-->
@@ -50,6 +54,7 @@ Feel free to check out my repositories and to contribute if you like.
     <img align="center" alt="Hygor-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 <!--Illustrator-->
      <img align="center" alt="Hygor-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+     
     
 
 </div>
