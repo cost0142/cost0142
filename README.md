@@ -13,7 +13,7 @@ Feel free to check out my repositories and to contribute if you like.
   <a href="https://github.com/cost0142">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cost0142&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cost0142&layout=compact&langs_count=7&theme=dark"/>
-<p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cost0142&layout=compact&langs_count=7&theme=dark" alt="cost0142" /></p>
+<!-- <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cost0142&layout=compact&langs_count=7&theme=dark" alt="cost0142" /></p> -->
           </div>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cost0142&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=90DD60)](https://git.io/streak-stats) -->
   
