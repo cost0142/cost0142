@@ -65,12 +65,12 @@ Feel free to check out my repositories and to contribute if you like.
   ##
   
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning --> React, Swift and Kotlin
+- 🌱  I’m currently learning --> React, Swift and Kotlin
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔  I’m looking for help with my first opportunity to show my skills and learn more
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: LinkedIn / Email
-<!-- - 😄 Pronouns: ... -->
+- 📫  How to reach me: LinkedIn / Email
+- 😄  Pronouns: He/Him 
 <!-- - ⚡ Fun fact: ... -->
 
   
