@@ -70,6 +70,7 @@ Feel free to check out my repositories and to contribute if you like.
 - 🤔  I’m looking for help with my first opportunity to show my skills and learn more
 <!-- - 💬 Ask me about ... -->
 - 📫  How to reach me: LinkedIn / Email
+<!-- - ⚡ Fun fact: ... -->
 - 😄  Pronouns: He/Him 
 <!-- - ⚡ Fun fact: ... -->
 
