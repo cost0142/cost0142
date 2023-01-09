@@ -9,12 +9,12 @@ You are very welcome to my GitHub.
 
 Feel free to check out my repositories and to contribute if you like.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/cost0142">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cost0142&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cost0142&layout=compact&langs_count=7&theme=dark"/>
 <!-- <p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cost0142&layout=compact&langs_count=7&theme=dark" alt="cost0142" /></p> -->
-          </div>
+ 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cost0142&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=90DD60)](https://git.io/streak-stats) -->
   
   
@@ -81,7 +81,7 @@ Feel free to check out my repositories and to contribute if you like.
 <!--  	<a href="https://www.twitch.tv/xxxxxxxxxxx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <!--  <a href="https://discord.gg/wagxzStdcRx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
 <!--     <a href = ""><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:hygorcosta@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <!-- <a href = "mailto:hygorcosta@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hygorcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/cost0142/cost0142/blob/output/github-contribution-grid-snake.svg)
