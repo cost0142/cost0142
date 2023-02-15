@@ -1,14 +1,13 @@
-## Hello !! My name's Hygor Costa. 
-### I'm a iOS Mobile and fullStack Developer 👋👋👋
+## Hi there! Welcome to my GitHub profile!  
 
-<!-- [![MasterHead](your image link)](cost0142) -->
+### Hello !! My name's Hygor Costa
+### I'm a iOS Mobile and full-Stack Developer 👋👋👋.
 
-<!-- Adicione uma imagem flutuante ou GIF -->
-<!-- <img align="right" alt="Coding" width="400" src="coloque o link aqui"> -->
+I have a passion for crafting elegant and efficient code, and my repositories reflect my commitment to delivering high-quality software solutions.  Please feel free to explore my repositories, which include projects ranging from mobile applications to web-based systems. If you find something that interests you, I welcome your contributions and feedback.  
 
-You are very welcome to my GitHub.
+#### Thank you for visiting, and I look forward to collaborating with you!
 
-Feel free to check out my repositories and to contribute if you like.
+#### Feel free to check out my repositories and to contribute if you like.
 
 <!-- <div align="center">
   <a href="https://github.com/cost0142">
