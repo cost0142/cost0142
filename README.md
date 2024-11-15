@@ -57,6 +57,7 @@ I have a passion for crafting elegant and efficient code, and my repositories re
 <!--AWS-->
      <img align="center" alt="Hygor-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg">
      <img align="center" alt="Hygor-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+     <img align="center" alt="Hygor-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
      
      
