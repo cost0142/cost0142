@@ -29,7 +29,9 @@ I have a passion for crafting elegant and efficient code, and my repositories re
   
   <div style="display: inline_block"><br>
 <!--Flutter-->
-    <img align="center" alt="Hygot-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+<!--     <img align="center" alt="Hygot-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
+<!--React-->
+    <img align="center" alt="Hygot-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <!--Swift-->
     <img align="center" alt="Hygor-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 <!--Kotlin-->
